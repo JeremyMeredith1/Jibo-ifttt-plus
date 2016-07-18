@@ -1,4 +1,4 @@
-# ifttt-plus
+# jibo-ifttt-plus
 This skill showcases a couple different ideas.  One is turning on a light using IFTTT.  
 
 The api key in this code has been been rendered invalid but I left it there so people could see it as it should look.    
